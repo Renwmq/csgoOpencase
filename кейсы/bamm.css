@@ -1,0 +1,60 @@
+h1{
+color: #e80734;
+align-content;
+background-color;
+font-size: 55px;
+border: ;
+align="center"
+}
+
+li{
+color:brown
+}
+
+
+body {
+    background-image: url= ("123.jpg") rgb(255, 0, 0);
+    background: url("1234.jpg");
+    background-color: #cccccc;
+}
+
+#a1{
+color: ;
+}
+
+.bank{
+color: #ff0000b9;
+}
+
+.name {
+color: rosybrown;
+}
+
+.case {
+color:rgb(255, 230, 0);
+}
+
+th {
+background-color: #ad6826;
+color:#ff0000;
+}
+td {
+    background-color: #ad6826;
+}
+input{
+ text-align: center;
+}
+.nom {
+ 
+ ;   
+}
+
+.nom [type=text]{
+    padding-left: 24px;
+    height:24px;
+    font-size: 15px;
+}
+p {
+    text-align: center;
+    color:#ff0000;
+}
